@@ -1,0 +1,6 @@
+[submodule "css"]
+	path = css
+	url = bzr::https://dudle.inf.tu-dresden.de/css/
+[submodule "unstable"]
+	path = unstable
+	url = bzr::https://dudle.inf.tu-dresden.de/unstable
